@@ -1,2 +1,1 @@
-group :jekyll_plugins do
-	gem "jemoji"
+gem "github-pages", group: :jekyll_plugins
