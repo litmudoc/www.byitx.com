@@ -1,7 +1,5 @@
 # www.byitx.com
 
-:fire: :fire:
-
 ```shell
 git branch -m master main
 git fetch origin
